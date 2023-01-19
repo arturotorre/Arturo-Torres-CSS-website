@@ -60,6 +60,7 @@ body{
     border-radius: 50%;
     height: 220px;
     width: 220px;
+    padding-top: 25px;
 }
 a{
     color: #ffffff
